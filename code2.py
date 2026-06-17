@@ -1,2 +1,2 @@
-print("hello")
-print("yello")
+X = int(input())
+if X
